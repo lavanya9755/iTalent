@@ -1,5 +1,5 @@
 // Configuration
-const AFFINDA_API_KEY = 'aff_5935cb39365318ef0607374fe2a8610dac4f944a';
+const AFFINDA_API_KEY = [your api]
 const SHEET_NAME = 'Sheet1';
 
 // Main function to process resumes
